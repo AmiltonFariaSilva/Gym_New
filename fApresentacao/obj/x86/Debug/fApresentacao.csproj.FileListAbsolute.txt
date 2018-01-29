@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\bin\Debug\fApresentacao.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\bin\Debug\fApresentacao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmCadEditora.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmCadFuncionario.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmMenuCadastros.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmCadLivros.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmLocatario.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmLogin.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmTelaSplash.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.frmMenuConfig.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\fApresentacao\obj\x86\Debug\fApresentacao.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.csprojResolveAssemblyReference.cache
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmCadEditora.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmCadFuncionario.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmMenuCadastros.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmCadLivros.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmLocatario.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmLogin.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmMenuConfig.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.frmTelaSplash.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.Properties.Resources.resources
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.csproj.GenerateResource.Cache
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.exe
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\obj\x86\Debug\fApresentacao.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\bin\Debug\fApresentacao.exe
+C:\Users\afaria\Documents\Drausio\NewAlexandria\fApresentacao\bin\Debug\fApresentacao.pdb

@@ -1,0 +1,14 @@
+D:\DADOS\Drausio\NewAlexandria\lNegocios\bin\Release\lNegocios.dll
+D:\DADOS\Drausio\NewAlexandria\lNegocios\bin\Release\lNegocios.pdb
+D:\DADOS\Drausio\NewAlexandria\lNegocios\obj\Release\LNegocios.csprojResolveAssemblyReference.cache
+D:\DADOS\Drausio\NewAlexandria\lNegocios\obj\Release\lNegocios.dll
+D:\DADOS\Drausio\NewAlexandria\lNegocios\obj\Release\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Release\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Release\LNegocios.csprojResolveAssemblyReference.cache
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Release\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Release\lNegocios.pdb

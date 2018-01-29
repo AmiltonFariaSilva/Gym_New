@@ -1,0 +1,23 @@
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.pdb
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.pdb
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.pdb
+G:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.dll
+G:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.pdb
+G:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.dll
+G:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\bin\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Debug\LObjetoTransferencia.csprojResolveAssemblyReference.cache

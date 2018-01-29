@@ -1,0 +1,26 @@
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll.config
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.pdb
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll.config
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.pdb
+G:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll.config
+G:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll
+G:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.pdb
+G:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.dll
+G:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll.config
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Debug\LAcessoBancoDados.csprojResolveAssemblyReference.cache

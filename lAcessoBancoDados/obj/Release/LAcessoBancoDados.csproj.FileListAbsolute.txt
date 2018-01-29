@@ -1,0 +1,12 @@
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Release\lAcessoBancoDados.dll.config
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Release\lAcessoBancoDados.dll
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\bin\Release\lAcessoBancoDados.pdb
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\obj\Release\LAcessoBancoDados.csprojResolveAssemblyReference.cache
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\obj\Release\lAcessoBancoDados.dll
+D:\DADOS\Drausio\NewAlexandria\lAcessoBancoDados\obj\Release\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Release\lAcessoBancoDados.dll.config
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Release\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\bin\Release\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Release\LAcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Release\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lAcessoBancoDados\obj\Release\lAcessoBancoDados.pdb

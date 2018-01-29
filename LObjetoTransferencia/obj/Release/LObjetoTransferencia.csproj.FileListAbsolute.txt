@@ -1,0 +1,10 @@
+D:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\bin\Release\LObjetoTransferencia.dll
+D:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\bin\Release\LObjetoTransferencia.pdb
+D:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\obj\Release\LObjetoTransferencia.csprojResolveAssemblyReference.cache
+D:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\obj\Release\LObjetoTransferencia.dll
+D:\DADOS\Drausio\NewAlexandria\LObjetoTransferencia\obj\Release\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\bin\Release\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\bin\Release\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Release\LObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Release\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\LObjetoTransferencia\obj\Release\LObjetoTransferencia.pdb

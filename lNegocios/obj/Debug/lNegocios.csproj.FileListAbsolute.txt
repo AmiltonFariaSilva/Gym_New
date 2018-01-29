@@ -1,0 +1,25 @@
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lNegocios\bin\Debug\lNegocios.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lNegocios\bin\Debug\lNegocios.pdb
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lNegocios\obj\Debug\lNegocios.dll
+C:\Users\Amilton\Documents\Visual Studio 2010\Projects\ContPessoal\lNegocios\obj\Debug\lNegocios.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lNegocios\bin\Debug\lNegocios.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lNegocios\bin\Debug\lNegocios.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lNegocios\obj\Debug\lNegocios.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\old\ContPessoal\lNegocios\obj\Debug\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lNegocios\bin\Debug\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lNegocios\bin\Debug\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lNegocios\obj\Debug\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\NewAlexandria\lNegocios\obj\Debug\lNegocios.pdb
+G:\DADOS\Drausio\NewAlexandria\lNegocios\bin\Debug\lNegocios.dll
+G:\DADOS\Drausio\NewAlexandria\lNegocios\bin\Debug\lNegocios.pdb
+G:\DADOS\Drausio\NewAlexandria\lNegocios\obj\Debug\lNegocios.dll
+G:\DADOS\Drausio\NewAlexandria\lNegocios\obj\Debug\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\lNegocios.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\lAcessoBancoDados.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\LObjetoTransferencia.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\lAcessoBancoDados.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\bin\Debug\LObjetoTransferencia.pdb
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Debug\LNegocios.csprojResolveAssemblyReference.cache
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Debug\lNegocios.dll
+C:\Users\afaria\Documents\Drausio\GYM\lNegocios\obj\Debug\lNegocios.pdb
